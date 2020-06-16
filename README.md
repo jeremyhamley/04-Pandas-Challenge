@@ -3,7 +3,7 @@ pandas challenge: Heroes of Pymoli
 Jeremy Hamley - June 2020
 
 This Pandas Challenge uses the Pandas Library and Jupyter Notebook to analyze in-game puchase data from the game "Heroes of Pymoli."
-The exact instructions (copied and pasted from the Tilogy Education homework assignment) are listed below for reference.
+The exact instructions (copied and pasted from the Trilogy Education homework assignment) are listed below for reference.
 The final analysis of purchase data will be displayed within Jupyter Notebook.
 
 
